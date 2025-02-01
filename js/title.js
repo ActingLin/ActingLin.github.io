@@ -4,11 +4,11 @@ var titleTime;
 document.addEventListener('visibilitychange', function () {
   if (document.hidden) {
     //离开当前页面时标签显示内容
-    document.title = '风带来了故事的种子';
+    document.title = '愿此行';
     clearTimeout(titleTime);
   } else {
     //返回当前页面时标签显示内容
-    document.title = '时间使其萌芽';
+    document.title = '终抵群星';
     //两秒后变回正常标题
     titleTime = setTimeout(function () {
       document.title = OriginTitile;
