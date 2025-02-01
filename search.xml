@@ -111,7 +111,7 @@
       <link href="/2025/01/29/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2025/01/29/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<p><img src="images/2025-01-29-第二篇文章/image.png" alt="alt text"></p>]]></content>
+        <content type="html"><![CDATA[<p><img src="images/2025-01-29-第二篇文章/image.png" alt="alt text"></p><p><img src="./images/2025-01-29-第二篇文章/image1.png" alt="alt text"></p>]]></content>
       
       
       
@@ -155,9 +155,9 @@
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -166,9 +166,9 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
